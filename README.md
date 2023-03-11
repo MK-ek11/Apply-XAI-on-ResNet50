@@ -18,3 +18,4 @@ The Grad-CAM highlights the localized areas on the image that contributes positi
 The LIME explanation method visualizes the contribution of each feature of an image to the model’s classification. <br />
 Conclusion, that the ResNet50 model can correctly identify and focus on the right areas of the image to make its classification
 
+
